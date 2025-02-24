@@ -1,3 +1,4 @@
+require "bundler/setup"
 require "debug"
 
 run do |env|
